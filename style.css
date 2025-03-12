@@ -33,9 +33,9 @@ h1 {
 }
 
 #openerText {
-  margin-top: 2rem;
-  font-size: 1.2rem;
-  text-align: center;
-  max-width: 80%;
-  line-height: 1.4;
+  background-color: #D2EBFF; /* A soft light blue background */
+  font-weight: bold;        /* Makes the text bold */
+  font-size: 1.5rem;        /* Increases the text size */
+  padding: 0.5rem;          /* Adds space inside the highlight */
+  border-radius: 0.25rem;   /* Softly rounds the edges */
 }
